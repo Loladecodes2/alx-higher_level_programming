@@ -7,6 +7,6 @@ This repository contains codes written for the higher level programming language
 This repository is a continuation of [ALX-Low_level_programming]and serve to build and refine my skill as a software engineer.
    
 ## Contents
-| Projects    | Short Description |
-| ----------- | ----------------- |
+| Projects    | Short Description   |
+| ----------- | ------------------- |
 0x00-python-hello_world
