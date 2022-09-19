@@ -5,7 +5,7 @@
 ![C](https://res.cloudinary.com/practicaldev/image/fetch/s--dWwH4rJ4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif)
 
 # Technologies
-* Scripts written in #!/usr/bin/python3
+* Scripts are written in #!/usr/bin/python3
 * Files are compiled using Ubuntu 20.04 LTS using python3 (version 3.8.5)
 * Files are written according to the pycodestyle (version 2.8.*)
 * All files are executable
