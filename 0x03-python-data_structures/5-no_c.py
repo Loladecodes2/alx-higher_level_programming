@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 def no_c(my_string):
-    remove_str = [a for a in my_string if a != 'c' and a != 'C']
-    return ("".join(remove_str))
+    ret_str = [var for var in my_string if var.lower() != 'c']
+    return (''.join(ret_str))
